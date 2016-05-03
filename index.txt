@@ -1,0 +1,3 @@
+#Open FireFox, Safari, Chrome and open browserstack for Ie and Edge
+alias qa="open /Applications/Firefox.app/ /Applications/Safari.app/ /Applications/Google\ Chrome.app/ 'https://www.browserstack.com'"
+tkim:~ taehwa.kim$ 
